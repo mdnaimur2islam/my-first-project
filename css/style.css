@@ -1,0 +1,74 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.banner-container{
+    background-color: dimgrey;
+}
+
+.banner-column{
+    background-color: gray;
+}
+
+.nevbar-container{
+    background-color: black;
+    margin: auto;
+    top:0;
+    position:sticky;
+    z-index:2;
+}
+
+.about-container{
+    background-color: blue;
+}
+
+.education-container{
+    background-color: whitesmoke;
+}
+
+.bg-redtype-color{
+   background-color: red;
+}
+
+.redtype-color{
+    color: red;
+}
+
+.circle{
+    background-color: red;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.project-container{
+    background-color: royalblue;
+}
+.gallery-container{
+    background-color:rosybrown;
+}
+.contact-container{
+    background-color: slategray;
+}
+.p1{
+    color:navy;
+}
+.bg-redtype-color-hover{
+    color: yellow ! important;
+}
+.footer-container{
+    background-color: thistle;
+}
+.circle-icon{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color:white ;
+    font-size: 45px;
+    text-align: center;
+    color: teal;
+}
+.circle-icon-hover{
+    background-color:red ;
+}
